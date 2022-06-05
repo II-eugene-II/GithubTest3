@@ -17,3 +17,9 @@ $$ e^x $$ 라고 입력하면 됐지만, 보이다시피 깃허브는 표현해�
 <img src="https://latex.codecogs.com/svg.image?e^x" title="https://latex.codecogs.com/svg.image?e^x" /> 와 같은 수식을 얻을 수 있다.
 
 ![image](https://user-images.githubusercontent.com/104616990/165918226-05f6cc81-e54f-4ccc-88f9-160408c2d88e.png)
+
+---
+
+시기 불명으로 깃허브 시스템에 수식 입력 기능이 지원되기 시작했다.
+
+\left\{ 같이 중괄호 부분을 제외한 다른 모든 기능이 작동한다.
